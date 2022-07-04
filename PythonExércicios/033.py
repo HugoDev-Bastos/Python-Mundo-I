@@ -1,0 +1,1 @@
+#Faça um programa que leia três número e mostre qual é o menor e qual e o maior.
