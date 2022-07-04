@@ -1,0 +1,20 @@
+Módulos
+Biblíotecas
+Importações == 'import'
+    
+    import 'doce'
+    from 'doce' import 'pudin'
+-----------------------------------------
+    import 'metch' >>> importa Tudo
+    from match import 'ceil' >>> importa selecionado
+
+    match
+        ceil = arredonda para cima 
+        floor = arredonda para baixo
+        trunc =
+        pow = 
+        sqrt = raiz quadrada
+        factorial = 
+
+
+
